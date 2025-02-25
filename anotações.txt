@@ -1,0 +1,15 @@
+Criação de uma API!!!
+
+- Por que estudar API ?
+    - Integração de dados: utilizada para acessar e integrar dados de diferentes fontes
+    - Desenvolver app que interage em tempo real
+    - Modelo de negócio para desenvolvimento de API
+        - Pode gerar valor ao Analista de dados, Engenheiro de dados e Cientista de dados
+
+- Fast API
+    - Solução de dados com MIT License -> Open Source
+    - Antes precisava de vários frameworks para desenvolvimento de API, e o Fast API é simples
+    - Dunossauro Fast API
+    - O Django tem tudo lá para resolver os problemas, e torna ele mais devagar
+    - O Fast API é só pra fazer a API
+    
